@@ -32,7 +32,7 @@ by roughly the drop rate itself (~5%), and expected
 | `marketplace_all_responded` | PASS (500/500 answered) | **FAIL** (15 unanswered) | flipped |
 | `marketplace_price_agreement` | PASS | PASS | unchanged |
 
-Raw traces for both runs are included under `traces/`.
+Raw traces for both runs are included under `evidence/`.
 
 ## Investigation — what surprised me
 
